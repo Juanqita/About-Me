@@ -1,28 +1,25 @@
 Claro. Yo lo llevaría hacia un perfil más **AI/Data/Software + builder**, dejando Meta Ads y growth como una ventaja adicional, no como el centro.
 
-# 👋 Hola, soy Juan Camilo
+# 👋 Hi, I'm Juan Camilo
 
 ### AI & Data Engineer | Digital Product Builder | Entrepreneur
+I’m a Physics Engineer focused on building digital products, data systems, and solutions powered by AI and automation.
 
-Soy **Ingeniero Físico** enfocado en construir productos digitales, sistemas de datos y soluciones basadas en **IA y automatización**.
+I’m especially interested in turning real-world problems into systems that can be measured, automated, and scaled.
 
-Me interesa especialmente convertir problemas reales en sistemas que puedan **medirse, automatizarse y escalarse**.
+Build systems. Automate processes. Turn data into decisions.
 
-> **Build systems. Automate processes. Turn data into decisions.**
+🧠 About Me
 
----
+My profile combines three main areas:
 
-## 🧠 Sobre mí
+🤖 Artificial Intelligence & Machine Learning
+📊 Data Engineering & Analytics
+🚀 Digital Products & Growth
 
-Mi perfil combina tres áreas:
+I primarily work with Python, APIs, automation, data analysis, and application development.
 
-* 🤖 **Artificial Intelligence & Machine Learning**
-* 📊 **Data Engineering & Analytics**
-* 🚀 **Digital Products & Growth**
-
-Trabajo principalmente con **Python**, APIs, automatización, análisis de datos y desarrollo de aplicaciones.
-
-También tengo experiencia en **marketing digital y adquisición de clientes**, lo que me permite pensar en productos no solo desde el punto de vista técnico, sino también desde su impacto en el negocio.
+I also have experience in digital marketing and customer acquisition, which allows me to approach products not only from a technical perspective, but also from their business impact.
 
 ---
 
