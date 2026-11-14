@@ -1,5 +1,3 @@
-Claro. Yo lo llevaría hacia un perfil más **AI/Data/Software + builder**, dejando Meta Ads y growth como una ventaja adicional, no como el centro.
-
 # 👋 Hi, I'm Juan Camilo
 
 ### AI & Data Engineer | Digital Product Builder | Entrepreneur
@@ -68,21 +66,21 @@ My goal is to move from **building individual solutions** to designing reusable 
 
 ## ⭐ Featured Projects
 
-### 🤖 AI & Machine Learning
+### 🏢 Atajo Studio
+My AI automation studio for local businesses in Colombia: WhatsApp assistants, AI catalog photos and a 3D virtual fitting room.
+→ [atajo-studio](https://github.com/Juanqita/atajo-studio)
 
-Projects involving machine learning, AI agents, data processing and intelligent applications.
+### 🤖 AI & Machine Learning
+* [Evaluador de Agentes de Cobranza](https://github.com/Juanqita/Evaluador-de-Agentes-de-Cobranza-BANCA-): LLM-based compliance evaluator for a voice collections agent (FastAPI, Gemini, tests).
+* [Home Credit Default Risk](https://github.com/Juanqita/Home-Credit-Default-Risk): credit risk classification with classic ML.
 
 ### 📊 Data Engineering
-
-ETL/ELT pipelines, data analysis, APIs, databases and automated reporting systems.
-
-### ⚙️ Automation
-
-Tools and workflows designed to eliminate repetitive processes and connect different systems.
+* [E-Commerce Data Pipeline](https://github.com/Juanqita/E-Commerce-Data-Pipeline-main): ELT pipeline and analytics.
+* [Colombia Solar Energy Analysis](https://github.com/Juanqita/Colombia_solar_energy_analysis): solar potential analysis for Colombia.
 
 ### 🌐 Digital Products
-
-Web applications, interactive experiences and experimental products built to solve real business problems.
+* [GA_Landing](https://github.com/Juanqita/GA_Landing): landing page for a restaurant group.
+* Interactive social-media mini-games for a fast-food brand.
 
 ---
 
@@ -129,7 +127,7 @@ while continuously improving my technical and entrepreneurial skills.
 ## 📫 Let's Connect
 
 * 📧 **Email:** `jcpm.pelaez@gmail.com`
-* 💼 **LinkedIn:** [Add your profile]
+* 💼 **LinkedIn:** [juan-camilo-pelaez](https://www.linkedin.com/in/juan-camilo-pelaez)
 * 🐙 **GitHub:** You're already here
 
 ---
@@ -150,4 +148,4 @@ while continuously improving my technical and entrepreneurial skills.
 
 ---
 
-*Last updated: August 2026*
+*Last updated: November 2026*
